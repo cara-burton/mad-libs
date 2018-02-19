@@ -5,10 +5,10 @@ Purpose of exercise
 *It generates a short story where the user has answered the questions supplied which then generate the short story which is printed at the end.
 
 How to play 
-Clone the file, activate it using the command line. 
+*Clone the file, activate it using the command line. 
 
-Go into the selected file in your computer
+*Go into the selected file in your computer
 
-Play mad-libs by madlibs.py python
+*Play mad-libs by madlibs.py python
 
 Please enjoy!
