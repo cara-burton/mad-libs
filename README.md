@@ -6,7 +6,9 @@ Purpose of exercise
 
 How to play 
 Clone the file, activate it using the command line. 
+
 Go into the selected file in your computer
+
 Play mad-libs by madlibs.py python
 
 Please enjoy!
